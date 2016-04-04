@@ -1,0 +1,44 @@
+{
+  "name": "daze",
+  "version": "1.0.0",
+  "engines": {
+    "node": "*"
+  },
+  "description": "Module to manage simple 8-digit integer dates.",
+  "main": "./api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/metaceo/nodejs.daze.git"
+  },
+  "keywords": [
+    "api",
+    "daze",
+    "date",
+    "year",
+    "month",
+    "day",
+    "late",
+    "past",
+    "until",
+    "greater",
+    "lesser"
+  ],
+  "author": {
+    "name": "James Allen",
+    "email": "com.npmjs@meta.ceo",
+    "url": "https://github.com/metaceo"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "preferGlobal": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/metaceo/nodejs.daze/issues"
+  },
+  "homepage": "https://github.com/metaceo/nodejs.daze#readme"
+}
